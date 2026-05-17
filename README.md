@@ -150,7 +150,7 @@ MIT - Use freely, attribute kindly.
 DeepLumen is pioneering Agentic Commerce infrastructure. We build the protocols, standards, and tools that let merchants thrive in the AI-first commerce era.
 
 **Website**: [www.deeplumen.com](https://www.deeplumen.com)
-**Email**: [hello@deeplumen.com](mailto:hello@deeplumen.com)
+**Email**: [contact@deeplumen.com](mailto:contact@deeplumen.com)
 
 ---
 
