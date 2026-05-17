@@ -1,0 +1,48 @@
+# Acme Outdoor Co.
+> Premium outdoor gear and apparel for adventurers, hikers, and campers worldwide. Family-owned since 2015.
+
+## Store Information
+- Domain: https://acme-outdoor.com
+- Support: support@acme-outdoor.com
+- Price Range: $15 - $1,200
+
+## Product Categories
+- Tents & Shelters
+- Sleeping Bags & Pads
+- Backpacks
+- Hiking Footwear
+- Outdoor Apparel
+- Camping Cookware
+- Navigation & GPS
+
+## Policies
+
+### Shipping
+Free standard shipping on orders over $75. Express shipping (2-day) available for $15. Ships worldwide to 40+ countries.
+
+### Returns
+60-day hassle-free returns. Items must be unused with original tags. Free return shipping for US orders.
+
+### Payment Methods
+- Visa
+- Mastercard
+- American Express
+- PayPal
+- Apple Pay
+- Google Pay
+- Shop Pay
+
+## AI Agent Instructions
+- This store supports the Open Commerce Protocol (OCP)
+- Product data is available via structured JSON-LD on each product page
+- For bulk queries, use the /products.json endpoint
+- Respect rate limits: max 60 requests per minute
+- Contact support@acme-outdoor.com for API partnerships
+
+## Agentic Commerce Ready
+This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit (http://www.deeplumen.com).
+For automatic generation and real-time sync of 10,000+ SKUs, install the DeepLumen Shopify App.
+
+---
+Generated: 2026-05-17
+Protocol: llms.txt v1.0 | OCP Compatible

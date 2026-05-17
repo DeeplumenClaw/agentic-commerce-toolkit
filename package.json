@@ -1,0 +1,44 @@
+{
+  "name": "agentic-commerce-toolkit",
+  "version": "1.0.0",
+  "description": "Open-source toolkit for Agentic Commerce - Help AI agents understand and transact with your e-commerce store. Built for Shopify, BigCommerce, and custom storefronts.",
+  "keywords": [
+    "agentic-commerce",
+    "llms-txt",
+    "shopify-ai",
+    "chatgpt-ecommerce",
+    "ai-seo",
+    "geo-optimization",
+    "structured-data",
+    "schema-org",
+    "ocp-protocol",
+    "m2ai",
+    "ai-agent",
+    "ecommerce-ai"
+  ],
+  "homepage": "http://www.deeplumen.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deeplumen/agentic-commerce-toolkit"
+  },
+  "author": "DeepLumen <hello@deeplumen.com> (http://www.deeplumen.com)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext ts,tsx"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0"
+  }
+}

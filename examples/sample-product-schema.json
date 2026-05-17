@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "TrekMaster 45L Hiking Backpack",
+  "description": "Durable waterproof backpack for multi-day hiking expeditions. Features ergonomic suspension system, hydration compatibility, and 45L capacity.",
+  "image": [
+    "https://acme-outdoor.com/products/trekmaster-front.jpg",
+    "https://acme-outdoor.com/products/trekmaster-back.jpg"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "TrekMaster"
+  },
+  "sku": "TM-45L-FOREST",
+  "gtin": "0123456789012",
+  "material": "Ripstop Nylon, Waterproof",
+  "color": "Forest Green",
+  "size": "45L",
+  "category": "Outdoor > Backpacks > Hiking",
+  "offers": {
+    "@type": "Offer",
+    "price": "189.99",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "priceValidUntil": "2026-12-31",
+    "url": "https://acme-outdoor.com/products/trekmaster-45l"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "342"
+  }
+}
