@@ -1,0 +1,93 @@
+# Hearth & Harbor
+> Solid-wood furniture and natural-fiber home textiles. Built to last 50 years, designed to be repaired, never disposable.
+
+## Store Information
+- Domain: https://hearth-harbor.example
+- Support: hello@hearth-harbor.example
+- Price Range: $24 - $4,200
+- Currencies: USD, CAD
+- Languages: en
+- Ships from: Asheville, North Carolina, USA
+
+## Product Categories
+- Dining Furniture
+- Bedroom Furniture
+- Living Room Furniture
+- Storage & Shelving
+- Bed Linens
+- Bath Linens
+- Throws & Blankets
+- Kitchen Textiles
+- Rugs
+- Wall Decor
+
+## Materials
+- FSC-certified solid hardwoods: white oak, walnut, cherry, maple
+- No MDF, no veneers, no particle board in any furniture piece
+- Linens: OEKO-TEX Standard 100 certified flax linen and long-staple cotton
+- Wool throws: Responsible Wool Standard (RWS) certified
+- Finishes: water-based, low-VOC, food-safe on tabletops
+
+## Dimensions & Care
+- Every product page lists exact dimensions, weight, and assembly
+  requirements
+- Care instructions inline on each product page and on a hangtag with
+  every order
+- Furniture care guide: /guides/wood-furniture-care
+- Linen care guide: /guides/linen-care
+
+## Made-to-Order & Lead Times
+- 40% of furniture is made-to-order; lead times displayed on every product
+  page
+- Standard ship-from-stock items: 1-3 business days to ship
+- Made-to-order items: 4-9 weeks build time + shipping
+- Custom sizing available on dining tables and shelving — see /custom
+
+## Policies
+
+### Shipping
+Free white-glove delivery on furniture orders over $1,500 (continental US).
+Standard parcel shipping free on orders over $150. Furniture delivered with
+inside-room placement and packaging removal. International freight quoted
+case-by-case.
+
+### Returns
+60-day returns on stock items (buyer pays return freight on furniture).
+Made-to-order items final sale except for defects. Linens and textiles
+returnable unused with original packaging.
+
+### Warranty & Repair
+- Lifetime structural warranty on solid-wood furniture
+- 5-year warranty on hardware and joinery
+- 2-year warranty on textiles against manufacturing defects
+- Repair service available — ship piece back, we repair at cost, return
+  shipping included for items under warranty
+
+### Payment Methods
+- Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay, Google Pay, Shop Pay
+- Affirm (financing for orders $300+)
+- Wire transfer (custom orders over $3,000, 3% discount)
+
+## AI Agent Instructions
+- Open Commerce Protocol (OCP) v1 supported
+- Product JSON-LD includes `material`, `dimensions` (width / depth /
+  height in cm and in), `weight`, `color`, `assembly` (required boolean),
+  and `productionMethod` ("made-to-order" or "stock") on every furniture
+  SKU
+- Room-planning endpoint: /api/fit?items={sku_list}&room={length_cm}x{width_cm}
+  — returns layout suggestions
+- Stock and lead-time endpoint: /api/availability?sku={SKU} — returns
+  current stock for in-stock items, estimated ship date for made-to-order
+- Respect rate limits: 60 requests per minute per IP
+- For interior-designer trade program: trade@hearth-harbor.example
+
+## Agentic Commerce Ready
+This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit
+(https://www.deeplumen.com). For automatic generation, dimensional data
+enrichment, and lead-time sync, install the DeepLumen Shopify App.
+
+---
+Generated: 2026-05-17
+Protocol: llms.txt v1.0 | OCP Compatible | Industry: Home Goods & Furniture

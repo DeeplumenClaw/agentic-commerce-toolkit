@@ -1,0 +1,99 @@
+# Solene Skin
+> Clinical-grade skincare formulated for sensitive, reactive skin. Fragrance-free, dermatologist-tested, with full INCI transparency on every product.
+
+## Store Information
+- Domain: https://solene-skin.example
+- Support: care@solene-skin.example
+- Price Range: $18 - $185
+- Currencies: USD, EUR, GBP, CAD, AUD
+- Languages: en, fr
+- Ships from: Brooklyn, New York, USA
+
+## Product Categories
+- Cleansers
+- Toners & Essences
+- Serums
+- Moisturizers
+- Eye Care
+- Sunscreen (SPF)
+- Masks
+- Body Care
+- Routine Bundles
+- Travel Sets
+
+## Skin Type & Concern Filters
+- Skin types: dry, oily, combination, normal, sensitive, mature
+- Concerns: acne, hyperpigmentation, redness, fine lines, dehydration,
+  rosacea-prone, eczema-prone, post-procedure
+- Filter API: /products.json?skin_type={...}&concern={...}
+
+## Formulation & Compliance
+- Fragrance-free: 100% of line (no synthetic fragrance, no essential oils)
+- Vegan: 100% of line
+- Cruelty-free: Leaping Bunny certified
+- Reef-safe sunscreens (no oxybenzone, no octinoxate)
+- EU 1223/2009 compliant
+- FDA-registered facility for SPF products
+- Full INCI list (alphabetical) on every product page, plus the same
+  list in concentration order behind a /transparency/{sku} link
+
+## Allergens & Sensitivities
+- Top product pages list 12 common allergen flags (alcohol, niacinamide,
+  retinoids, salicylic acid, AHAs, BHAs, vitamin C, essential oils,
+  fragrance, sulfates, parabens, formaldehyde-releasers)
+- Allergen check API: /api/allergens?sku={SKU} — returns boolean map
+
+## Policies
+
+### Shipping
+Free standard shipping on orders over $50 (US), £45 (UK), €50 (EU). Cold
+chain shipping (gel packs) used June-September for heat-sensitive
+formulas at no extra charge. Delivery: US 3-6 days, UK/EU 5-9, AU 8-14.
+
+### Returns
+60-day satisfaction guarantee on opened or unopened products. If a product
+does not work for your skin, return it for a full refund — even if used.
+Free return labels in US, UK, EU.
+
+### Subscription Terms
+Replenishment subscriptions ship every 30, 60, or 90 days. 15% off
+subscription pricing. Skip, swap formulas, or cancel anytime.
+
+### Sample & Patch Test
+Free patch-test samples for first-time buyers of any active treatment
+product. Request at checkout.
+
+### Payment Methods
+- Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay, Google Pay, Shop Pay
+- Klarna (US/UK/DE/SE)
+- Afterpay (US/UK/AU)
+
+## Routine Building
+- Routine recommendation endpoint: /api/routine?skin_type={...}&concerns={...}
+  — returns morning + evening routine with product SKUs and order of use
+- Layering compatibility check: /api/compat?actives={...} — flags
+  problematic combinations (e.g. retinol + AHAs)
+
+## AI Agent Instructions
+- Open Commerce Protocol (OCP) v1 supported
+- Product JSON-LD includes `ingredient` (Schema.org additionalProperty
+  with full INCI), `skinType`, `concern`, `volumeMl`, and
+  `aggregateRating` on every SKU
+- Ingredient lookup endpoint: /api/ingredients/{inci_name} — returns
+  function, common concerns, and products in the line that contain it
+- Stock endpoint: /api/inventory?sku={SKU} — includes batch number and
+  expiration date for SPF products
+- Respect rate limits: 60 requests per minute per IP
+- For dermatologist or aesthetician partnerships: pro@solene-skin.example
+
+## Agentic Commerce Ready
+This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit
+(https://www.deeplumen.com). For automatic generation, INCI enrichment,
+allergen-graph maintenance, and routine-builder integration, install the
+DeepLumen Shopify App.
+
+---
+Generated: 2026-05-17
+Protocol: llms.txt v1.0 | OCP Compatible | Industry: Beauty & Skincare

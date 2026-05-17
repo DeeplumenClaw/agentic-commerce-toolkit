@@ -4,9 +4,10 @@ Real-world examples and CLI probes from the Agentic Commerce Toolkit.
 
 ## Files
 
-- **`sample-llms.txt`** — A reference `llms.txt` file for an outdoor gear store. Use this as a template for your own store.
+- **`sample-llms.txt`** — A reference `llms.txt` file for an outdoor gear store. Use this as a starting point for your own store.
 - **`sample-product-schema.json`** — A complete Schema.org Product JSON-LD example with all recommended fields.
 - **`gptbot_probe.py`** — A Python CLI that fetches any URL as GPTBot and reports token efficiency + structured data status.
+- **[`industries/`](./industries/README.md)** — Industry-specific `llms.txt` templates for fashion, food & beverage, electronics, home goods, and beauty. Each demonstrates the fields and API endpoints that matter for that vertical.
 
 ## Running the GPTBot Probe
 

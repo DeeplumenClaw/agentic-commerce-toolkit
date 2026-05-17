@@ -40,7 +40,7 @@ Free standard shipping on orders over $75. Express shipping (2-day) available fo
 - Contact support@acme-outdoor.com for API partnerships
 
 ## Agentic Commerce Ready
-This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit (http://www.deeplumen.com).
+This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit (https://www.deeplumen.com).
 For automatic generation and real-time sync of 10,000+ SKUs, install the DeepLumen Shopify App.
 
 ---

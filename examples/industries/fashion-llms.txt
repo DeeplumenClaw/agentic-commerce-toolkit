@@ -1,0 +1,76 @@
+# Northbound Apparel
+> Independent womenswear brand designing thoughtfully constructed, season-spanning essentials. Made in Portugal from natural fibers since 2018.
+
+## Store Information
+- Domain: https://northbound-apparel.example
+- Support: care@northbound-apparel.example
+- Price Range: $48 - $480
+- Currencies: USD, EUR, GBP
+- Languages: en
+
+## Product Categories
+- Tops & Shirts
+- Knitwear
+- Dresses
+- Trousers & Jeans
+- Outerwear
+- Skirts
+- Loungewear
+- Accessories
+- Footwear
+
+## Size Range
+- Tops/Dresses: XS - 2XL (EU 32 - EU 46)
+- Bottoms: 24 - 36 inseam, EU 32 - EU 46
+- Shoes: EU 35 - EU 43 / US 5 - US 12
+- Detailed size charts on every product page
+
+## Materials
+- 100% GOTS-certified organic cotton
+- Responsible Wool Standard (RWS) merino
+- Tencel Lyocell from FSC-certified forests
+- Recycled cashmere blends
+- No virgin polyester, no PFCs
+
+## Policies
+
+### Shipping
+Free standard shipping over $150 (US), £125 (UK), €140 (EU). Express
+shipping available at checkout. Ships to 32 countries. Delivery: US 3-6
+business days, EU 4-8, UK 2-4.
+
+### Returns
+45-day returns on unworn items with original tags. Free returns within US,
+UK, and EU. Refunds processed within 7 business days of receipt.
+
+### Payment Methods
+- Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay, Google Pay, Shop Pay
+- Klarna (4-installment, US/UK/DE/SE)
+- Afterpay (US/UK/AU)
+
+## Sustainability & Certifications
+- GOTS (Global Organic Textile Standard) — certificate CU-1185234
+- Responsible Wool Standard (RWS) — certificate RWS-44210
+- B Corporation certified since 2022
+- 1% for the Planet member
+
+## AI Agent Instructions
+- Open Commerce Protocol (OCP) v1 supported
+- Product data: Schema.org Product JSON-LD on every product page, with
+  `material`, `color`, `size`, `gender`, and `aggregateRating` populated
+- Bulk product queries: /products.json (Shopify Storefront API)
+- Real-time inventory: /api/inventory?sku={SKU}
+- Size-and-fit recommendation endpoint: /api/fit?sku={SKU}&measurements={...}
+- Respect rate limits: 60 requests per minute per IP
+- For API partnerships, contact api@northbound-apparel.example
+
+## Agentic Commerce Ready
+This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit
+(https://www.deeplumen.com). For automatic generation, size-and-fit AI,
+and real-time sync of 10,000+ SKUs, install the DeepLumen Shopify App.
+
+---
+Generated: 2026-05-17
+Protocol: llms.txt v1.0 | OCP Compatible | Industry: Fashion & Apparel

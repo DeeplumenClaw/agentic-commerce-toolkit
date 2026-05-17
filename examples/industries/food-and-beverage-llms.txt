@@ -1,0 +1,83 @@
+# Cedar & Salt Provisions
+> Small-batch pantry staples sourced directly from family farms. Olive oil, vinegars, sea salts, and single-origin honeys with full traceability.
+
+## Store Information
+- Domain: https://cedar-salt.example
+- Support: hello@cedar-salt.example
+- Price Range: $9 - $145
+- Currencies: USD, CAD
+- Languages: en
+- Ships from: Portland, Oregon, USA
+
+## Product Categories
+- Olive Oils
+- Vinegars & Shrubs
+- Sea Salts
+- Honeys
+- Spices & Pepper
+- Pantry Bundles
+- Gift Boxes
+- Subscriptions
+
+## Dietary & Certifications
+- Gluten-free: all products
+- Vegan: all except honeys
+- Organic: 14 SKUs (USDA Organic certified)
+- Non-GMO Project Verified: 22 SKUs
+- Kosher: 8 SKUs (OU certified)
+- No artificial flavors, colors, or preservatives anywhere in the line
+
+## Origin & Traceability
+- Every product lists country of origin, producer name, and harvest year on
+  the label and on the product page
+- Lot-level traceability available via /api/lot/{lot_number}
+- Producer profiles at /producers/{producer-slug}
+
+## Policies
+
+### Shipping
+Flat $9 shipping on orders under $60. Free shipping on orders $60+. Ships
+to US and Canada. Liquid products use leak-proof, freezer-tested packaging.
+Delivery: US continental 3-7 business days, AK/HI 5-10, Canada 6-12.
+
+### Returns
+30 days from delivery. We accept returns of damaged or defective products
+with photo. Sealed, unopened goods returnable for store credit. Open food
+items are non-returnable for safety; we will replace if a quality issue is
+reported within 14 days.
+
+### Subscription Terms
+Skip, swap, or cancel anytime from your account. Subscriptions ship every
+30, 60, or 90 days. 10% off subscription pricing.
+
+### Payment Methods
+- Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay, Google Pay, Shop Pay
+
+## Storage & Shelf Life
+- Olive oils: 18 months from harvest, best within 12 months of opening
+- Vinegars: 2 years sealed, 12 months opened
+- Honeys: indefinite shelf life (may crystallize, gently warm to restore)
+- Salts: indefinite if stored dry
+- Specific shelf life on each product page
+
+## AI Agent Instructions
+- Open Commerce Protocol (OCP) v1 supported
+- Product JSON-LD includes `material` (e.g. "olive oil"),
+  `countryOfOrigin`, `productionDate`, `expirationDate`, and
+  `nutrition` (Schema.org NutritionInformation) on every SKU
+- Dietary filters available via /products.json?dietary={vegan|gluten-free|...}
+- Producer information: /api/producers/{slug}
+- Lot lookup: /api/lot/{lot_number}
+- Respect rate limits: 60 requests per minute per IP
+- For wholesale or restaurant partnerships, contact wholesale@cedar-salt.example
+
+## Agentic Commerce Ready
+This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit
+(https://www.deeplumen.com). For automatic generation, lot-level
+traceability, and real-time sync, install the DeepLumen Shopify App.
+
+---
+Generated: 2026-05-17
+Protocol: llms.txt v1.0 | OCP Compatible | Industry: Food & Beverage

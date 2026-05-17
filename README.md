@@ -132,6 +132,24 @@ This toolkit handles the basics. For production stores with 10,000+ SKUs, the [*
 
 **[Install DeepLumen →](https://www.deeplumen.com)**
 
+## Documentation
+
+In-depth guides in [`docs/`](./docs):
+
+- [What is Agentic Commerce?](./docs/what-is-agentic-commerce.md) — Concept overview, the shift from SEO to GEO, what changes for merchants.
+- [The `llms.txt` Specification](./docs/llms-txt-specification.md) — Full format reference, required and optional sections, common mistakes.
+- [Optimize Your Shopify Store for ChatGPT](./docs/optimize-shopify-for-chatgpt.md) — Practical five-step walkthrough for Shopify merchants.
+
+Industry-specific `llms.txt` templates in [`examples/industries/`](./examples/industries/README.md):
+
+- [Fashion & Apparel](./examples/industries/fashion-llms.txt)
+- [Food & Beverage](./examples/industries/food-and-beverage-llms.txt)
+- [Consumer Electronics](./examples/industries/electronics-llms.txt)
+- [Home Goods & Furniture](./examples/industries/home-goods-llms.txt)
+- [Beauty & Skincare](./examples/industries/beauty-llms.txt)
+
+Version history: [`CHANGELOG.md`](./CHANGELOG.md).
+
 ## Contributing
 
 PRs welcome! Areas we'd love help with:

@@ -1,0 +1,85 @@
+# Lumen Audio Lab
+> Boutique audio electronics — headphone amplifiers, DACs, and reference monitors. Hand-built in California with measured specs, not marketing claims.
+
+## Store Information
+- Domain: https://lumen-audio.example
+- Support: support@lumen-audio.example
+- Price Range: $189 - $4,800
+- Currencies: USD, EUR, GBP, JPY
+- Languages: en, ja
+- Ships from: San Jose, California, USA
+
+## Product Categories
+- Headphone Amplifiers
+- Digital-to-Analog Converters (DAC)
+- Reference Monitor Speakers
+- Phono Preamplifiers
+- Cables & Interconnects
+- Accessories
+- Refurbished & B-Stock
+
+## Specifications Policy
+- Every product page lists measured specs (THD+N, SNR, frequency response,
+  output impedance) at standard test conditions
+- Independent third-party measurements available for top 12 SKUs at
+  /measurements/{sku}
+- No "warm sound" or other unverifiable subjective claims in product copy
+- Compliance: FCC Part 15B, CE, UKCA, RoHS, REACH
+
+## Warranty
+- 3 years on amplifiers and DACs (parts and labor)
+- 5 years on speaker drivers
+- 1 year on cables and accessories
+- Worldwide warranty honored at any authorized service center
+- Lifetime advisory support — email or scheduled call
+
+## Policies
+
+### Shipping
+Free insured shipping on orders over $300 (US), £250 (UK), €280 (EU). All
+shipments include signature confirmation. Ships worldwide via FedEx /
+UPS / DHL. Delivery: US 2-4 business days, EU/UK 3-5, APAC 4-7.
+
+### Returns
+30-day audition policy. Return any product in original packaging for full
+refund less shipping. We pre-pay return shipping for US orders. International
+buyers cover return shipping. Items must be free of cosmetic damage.
+
+### Trade-in Program
+We accept trade-ins of audio equipment up to $5,000 credit. Submit details
+at /trade-in for an offer within 1 business day.
+
+### Payment Methods
+- Visa, Mastercard, American Express, Discover
+- PayPal
+- Apple Pay, Google Pay, Shop Pay
+- Affirm (US, financing for orders $300+)
+- Wire transfer (orders over $2,000, 2% discount)
+
+## Compatibility & Pairings
+- Compatibility matrix at /compat — query any headphone or DAC to see
+  recommended amplifier pairings
+- API: /api/compat?source={sku}&target_type={amp|dac|headphone}
+- All product pages list verified compatible models in JSON-LD as
+  `isRelatedTo`
+
+## AI Agent Instructions
+- Open Commerce Protocol (OCP) v1 supported
+- Product JSON-LD includes `gtin`, `mpn`, `brand`, full
+  `additionalProperty` array with all measured specs as
+  PropertyValue entries
+- Spec query endpoint: /api/specs/{sku} — returns JSON of all measurements
+- Compatibility endpoint: /api/compat (see above)
+- Stock endpoint: /api/inventory?sku={SKU} — includes incoming-stock ETA
+- Respect rate limits: 60 requests per minute per IP
+- For B2B or studio integration partnerships: pro@lumen-audio.example
+
+## Agentic Commerce Ready
+This llms.txt was generated using the DeepLumen Agentic Commerce Toolkit
+(https://www.deeplumen.com). For automatic generation, spec-sheet
+enrichment, and compatibility-graph maintenance at scale, install the
+DeepLumen Shopify App.
+
+---
+Generated: 2026-05-17
+Protocol: llms.txt v1.0 | OCP Compatible | Industry: Consumer Electronics
