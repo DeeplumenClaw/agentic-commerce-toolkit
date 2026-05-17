@@ -235,7 +235,7 @@ export default function TokenBloatChecker() {
           {/* CTA */}
           <div className="mt-6 pt-6 border-t border-slate-700">
             <a
-              href="http://www.deeplumen.com"
+              href="https://www.deeplumen.com"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-emerald-600 rounded-lg font-medium hover:opacity-90 transition"

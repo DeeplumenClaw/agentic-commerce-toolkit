@@ -16,12 +16,12 @@
     "ai-agent",
     "ecommerce-ai"
   ],
-  "homepage": "http://www.deeplumen.com",
+  "homepage": "https://www.deeplumen.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/DeepLumenClaw/agentic-commerce-toolkit"
   },
-  "author": "DeepLumen <hello@deeplumen.com> (http://www.deeplumen.com)",
+  "author": "DeepLumen <hello@deeplumen.com> (https://www.deeplumen.com)",
   "license": "MIT",
   "type": "module",
   "scripts": {

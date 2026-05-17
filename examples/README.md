@@ -19,7 +19,7 @@ Sample output:
 ```
 ======================================================================
   GPTBot Crawler Probe - Analysis Report
-  by DeepLumen (http://www.deeplumen.com)
+  by DeepLumen (https://www.deeplumen.com)
 ======================================================================
 
 URL: https://your-store.com/products/example
@@ -44,7 +44,7 @@ Issues Found (2):
 
 ## Why This Matters
 
-These probes are **deliberately simple** — they're meant to demonstrate the core concepts of Agentic Commerce optimization. The full [DeepLumen platform](http://www.deeplumen.com) handles automation, real-time sync, and protocol compliance at scale.
+These probes are **deliberately simple** — they're meant to demonstrate the core concepts of Agentic Commerce optimization. The full [DeepLumen platform](https://www.deeplumen.com) handles automation, real-time sync, and protocol compliance at scale.
 
 ## Contributing Examples
 

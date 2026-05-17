@@ -2,11 +2,11 @@
 
 > Open-source tools to make your e-commerce store AI-ready. Built for the era of **Agentic Commerce**, where ChatGPT, Claude, and other AI agents are the new shopping intermediaries.
 
-[![Made by DeepLumen](https://img.shields.io/badge/Made_by-DeepLumen-emerald?style=flat-square)](http://www.deeplumen.com)
+[![Made by DeepLumen](https://img.shields.io/badge/Made_by-DeepLumen-emerald?style=flat-square)](https://www.deeplumen.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://www.deeplumen.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://www.deeplumen.com)
 
-**Website**: [www.deeplumen.com](http://www.deeplumen.com) | **Docs**: [www.deeplumen.com/docs](http://www.deeplumen.com/docs)
+**Website**: [www.deeplumen.com](https://www.deeplumen.com) | **Docs**: [www.deeplumen.com/docs](https://www.deeplumen.com/docs)
 
 ---
 
@@ -96,7 +96,7 @@ This toolkit is part of a larger vision: the **Open Commerce Protocol (OCP)** �
 - **Token-efficient page formats** (Agentic Pages)
 - **Real-time inventory sync** for AI recommendations
 
-Learn more at [www.deeplumen.com](http://www.deeplumen.com).
+Learn more at [www.deeplumen.com](https://www.deeplumen.com).
 
 ## M2AI (Marketing to AI)
 
@@ -107,7 +107,7 @@ We're also building the M2AI framework — a new discipline for marketers in the
 - AI-friendly faceted navigation
 - Prompt-engineered product descriptions
 
-Full M2AI guide: [www.deeplumen.com/m2ai](http://www.deeplumen.com)
+Full M2AI guide: [www.deeplumen.com](https://www.deeplumen.com)
 
 ## Roadmap
 
@@ -119,18 +119,18 @@ Full M2AI guide: [www.deeplumen.com/m2ai](http://www.deeplumen.com)
 - [ ] Shopify Theme Auditor
 - [ ] BigCommerce Plugin
 
-Want a feature? Open an issue or [contact us](http://www.deeplumen.com).
+Want a feature? Open an issue or [contact us](https://www.deeplumen.com).
 
 ## Want More? Try DeepLumen
 
-This toolkit handles the basics. For production stores with 10,000+ SKUs, the [**DeepLumen Shopify App**](http://www.deeplumen.com) automates everything:
+This toolkit handles the basics. For production stores with 10,000+ SKUs, the [**DeepLumen Shopify App**](https://www.deeplumen.com) automates everything:
 
 - Auto-generated `llms.txt` that updates in real-time
 - Agentic Pages that compress your product pages by 79.7%
 - AI-extracted attributes (material, color, pattern) for every product
 - Full OCP protocol integration
 
-**[Install DeepLumen →](http://www.deeplumen.com)**
+**[Install DeepLumen →](https://www.deeplumen.com)**
 
 ## Contributing
 
@@ -149,9 +149,8 @@ MIT - Use freely, attribute kindly.
 
 DeepLumen is pioneering Agentic Commerce infrastructure. We build the protocols, standards, and tools that let merchants thrive in the AI-first commerce era.
 
-**Website**: [www.deeplumen.com](http://www.deeplumen.com)
-**Twitter**: [@deeplumen](http://www.deeplumen.com)
-**Email**: hello@deeplumen.com
+**Website**: [www.deeplumen.com](https://www.deeplumen.com)
+**Email**: [hello@deeplumen.com](mailto:hello@deeplumen.com)
 
 ---
 
@@ -159,4 +158,4 @@ DeepLumen is pioneering Agentic Commerce infrastructure. We build the protocols,
 
 `agentic commerce` · `llms.txt` · `shopify ai seo` · `chatgpt ecommerce` · `geo optimization` · `ai agent commerce` · `schema.org validator` · `token optimization` · `m2ai` · `ocp protocol` · `gptbot` · `claudebot` · `ai crawler` · `structured data` · `ecommerce ai`
 
-Built with care by [DeepLumen](http://www.deeplumen.com).
+Built with care by [DeepLumen](https://www.deeplumen.com).

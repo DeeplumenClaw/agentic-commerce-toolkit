@@ -62,7 +62,7 @@ ${formData.paymentMethods.split(',').map(p => `- ${p.trim()}`).join('\n')}
 - Contact ${formData.supportEmail} for API partnerships
 
 ## Agentic Commerce Ready
-This llms.txt was generated using the [DeepLumen Agentic Commerce Toolkit](http://www.deeplumen.com).
+This llms.txt was generated using the [DeepLumen Agentic Commerce Toolkit](https://www.deeplumen.com).
 For automatic generation and real-time sync of 10,000+ SKUs, install the DeepLumen Shopify App.
 
 ---
@@ -242,7 +242,7 @@ Protocol: llms.txt v1.0 | OCP Compatible
             <p className="text-sm text-emerald-300">
               <strong>Next step:</strong> Save this as <code>llms.txt</code> in your store's root directory.
               Want automatic generation for 10,000+ products?{' '}
-              <a href="http://www.deeplumen.com" className="underline hover:text-emerald-200">
+              <a href="https://www.deeplumen.com" className="underline hover:text-emerald-200">
                 Install DeepLumen
               </a>
             </p>

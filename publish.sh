@@ -1,6 +1,6 @@
 #!/bin/bash
 # Agentic Commerce Toolkit - One-Click GitHub Publisher
-# Built by DeepLumen (http://www.deeplumen.com)
+# Built by DeepLumen (https://www.deeplumen.com)
 #
 # Usage: ./publish.sh
 
@@ -19,7 +19,7 @@ NC='\033[0m'
 
 echo -e "${BLUE}======================================================${NC}"
 echo -e "${BLUE}  Agentic Commerce Toolkit - Publishing to GitHub${NC}"
-echo -e "${BLUE}  http://www.deeplumen.com${NC}"
+echo -e "${BLUE}  https://www.deeplumen.com${NC}"
 echo -e "${BLUE}======================================================${NC}"
 echo ""
 
@@ -70,7 +70,7 @@ else
     gh repo create "$REPO_NAME" \
         --public \
         --description "$REPO_DESC" \
-        --homepage "http://www.deeplumen.com" \
+        --homepage "https://www.deeplumen.com" \
         --source=. \
         --remote=origin
     echo -e "${GREEN}Repository created!${NC}"
@@ -109,4 +109,4 @@ echo "  4. Share on Reddit r/Shopify, Hacker News, Twitter"
 echo ""
 echo "Live URL will be: https://$GH_USER.github.io/$REPO_NAME/"
 echo ""
-echo "Learn more about Agentic Commerce: http://www.deeplumen.com"
+echo "Learn more about Agentic Commerce: https://www.deeplumen.com"

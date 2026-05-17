@@ -29,7 +29,7 @@ export default function App() {
               </p>
             </div>
             <a
-              href="http://www.deeplumen.com"
+              href="https://www.deeplumen.com"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 bg-gradient-to-r from-blue-600 to-emerald-600 rounded-lg text-sm font-medium hover:opacity-90 transition"
@@ -74,13 +74,13 @@ export default function App() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-slate-400 text-sm">
               Built by{' '}
-              <a href="http://www.deeplumen.com" className="text-emerald-400 hover:underline">
+              <a href="https://www.deeplumen.com" className="text-emerald-400 hover:underline">
                 DeepLumen
               </a>{' '}
               | Pioneering Agentic Commerce & OCP Protocol
             </div>
             <div className="flex gap-6 text-sm">
-              <a href="http://www.deeplumen.com" className="text-slate-400 hover:text-white">
+              <a href="https://www.deeplumen.com" className="text-slate-400 hover:text-white">
                 Website
               </a>
               <a
@@ -89,7 +89,7 @@ export default function App() {
               >
                 GitHub
               </a>
-              <a href="http://www.deeplumen.com/docs" className="text-slate-400 hover:text-white">
+              <a href="https://www.deeplumen.com/docs" className="text-slate-400 hover:text-white">
                 Documentation
               </a>
             </div>

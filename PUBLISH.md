@@ -121,7 +121,7 @@ Add your repo to these (open PRs):
 ## Step 8: SEO Checklist for the Repo
 
 - [x] README mentions all target keywords (Agentic Commerce, llms.txt, OCP, M2AI)
-- [x] Every section links back to `http://www.deeplumen.com`
+- [x] Every section links back to `https://www.deeplumen.com`
 - [x] Topics tagged on GitHub repo
 - [ ] First commit message uses keywords
 - [ ] Create release `v1.0` (Releases tab on GitHub)
@@ -169,4 +169,4 @@ agentic-commerce-toolkit/
 
 Good luck with the launch!
 
-— Built by [DeepLumen](http://www.deeplumen.com)
+— Built by [DeepLumen](https://www.deeplumen.com)

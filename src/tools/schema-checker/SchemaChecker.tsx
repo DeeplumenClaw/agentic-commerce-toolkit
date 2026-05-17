@@ -226,7 +226,7 @@ export default function SchemaChecker() {
               </p>
               <p className="text-sm text-slate-300">
                 AI agents like ChatGPT cannot reliably recommend products with incomplete schemas.{' '}
-                <a href="http://www.deeplumen.com" className="text-emerald-400 underline">
+                <a href="https://www.deeplumen.com" className="text-emerald-400 underline">
                   DeepLumen automatically enriches
                 </a>{' '}
                 your product data with AI-extracted attributes.
