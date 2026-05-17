@@ -84,7 +84,7 @@ export default function App() {
                 Website
               </a>
               <a
-                href="https://github.com/deeplumen/agentic-commerce-toolkit"
+                href="https://github.com/DeepLumenClaw/agentic-commerce-toolkit"
                 className="text-slate-400 hover:text-white"
               >
                 GitHub

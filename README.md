@@ -59,7 +59,7 @@ Validates your product JSON-LD against 14 fields that AI agents need for recomme
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/agentic-commerce-toolkit.git
+git clone https://github.com/DeepLumenClaw/agentic-commerce-toolkit.git
 cd agentic-commerce-toolkit
 
 # Install dependencies

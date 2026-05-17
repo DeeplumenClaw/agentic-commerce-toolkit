@@ -23,17 +23,17 @@ git init
 git add .
 git commit -m "Initial release: Agentic Commerce Toolkit v1.0"
 
-# Connect to your GitHub repo (replace YOUR_USERNAME)
+# Connect to your GitHub repo (replace DeepLumenClaw)
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/agentic-commerce-toolkit.git
+git remote add origin https://github.com/DeepLumenClaw/agentic-commerce-toolkit.git
 git push -u origin main
 ```
 
 ## Step 3: Update Repository Links
 
-After pushing, update these files to replace `YOUR_USERNAME`:
+After pushing, update these files to replace `DeepLumenClaw`:
 
-- `README.md` — line with `git clone https://github.com/YOUR_USERNAME/...`
+- `README.md` — line with `git clone https://github.com/DeepLumenClaw/...`
 - `package.json` — `repository.url` field
 
 Then commit:
@@ -84,7 +84,7 @@ Follow prompts. Your tools will be live at `your-project.vercel.app` in 60 secon
 2. Source: **GitHub Actions**
 3. The `.github/workflows/deploy.yml` we included will auto-deploy
 
-URL will be: `https://YOUR_USERNAME.github.io/agentic-commerce-toolkit/`
+URL will be: `https://DeepLumenClaw.github.io/agentic-commerce-toolkit/`
 
 ### Option C: Netlify
 
@@ -132,7 +132,7 @@ Add your repo to these (open PRs):
 Once the GitHub repo is up, add a backlink from `deeplumen.com`:
 
 ```html
-<a href="https://github.com/YOUR_USERNAME/agentic-commerce-toolkit">
+<a href="https://github.com/DeepLumenClaw/agentic-commerce-toolkit">
   Open Source Toolkit on GitHub
 </a>
 ```
